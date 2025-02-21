@@ -1,0 +1,38 @@
+ [
+    {
+      "id": 1,
+      "name": "Wireless Headphones",
+      "description": "High-quality wireless headphones with noise cancellation.",
+      "price": 99.99,
+      "image": "https://www.theaudiostore.in/cdn/shop/files/Sony_WH-ULT900N_ULT_WEAR_Active_Noise-Canceling_Wireless_Headphones_black_forest_grey_01_1024x.webp?v=1720808498"
+    },
+    {
+      "id": 2,
+      "name": "Smartphone Stand",
+      "description": "Adjustable smartphone stand for hands-free use.",
+      "price": 29.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcSdLlm0xOZm3XoyG4FH3NsgRMTFB4Au83lYS4FkjUS506f4CSflb_20GKxr_kLv-wvpGiVdYSa1IqmaE0hIWZtbJqP_1Zbto-7PfwtM5aSmOQDvIPae3RF9FFnD-SZ6FnR-oN_AVK27xQ&usqp=CAc"
+    },
+    {
+      "id": 3,
+      "name": "Laptop Bag",
+      "description": "Stylish and durable laptop bag with multiple compartments.",
+      "price": 49.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThu3Ezytn3KMGZT7LGQO731J8OeMJ36XLed_r937g39Wg9FjOly7yvGs-_hnkcACIyx1LoWvL2T-RbFDqS6HqxQ2Kr4LdIDcDT-jiv5-kUcnMMjlrlaxv--b9liv8_mztIlQR95tZk&usqp=CAc"
+    },
+    {
+      "id": 4,
+      "name": "Bluetooth Speaker",
+      "description": "Portable Bluetooth speaker with excellent sound quality.",
+      "price": 69.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThu3Ezytn3KMGZT7LGQO731J8OeMJ36XLed_r937g39Wg9FjOly7yvGs-_hnkcACIyx1LoWvL2T-RbFDqS6HqxQ2Kr4LdIDcDT-jiv5-kUcnMMjlrlaxv--b9liv8_mztIlQR95tZk&usqp=CAc"
+    },
+    {
+      "id": 5,
+      "name": "Smart Watch",
+      "description": "Fitness tracking smart watch with heart rate monitor.",
+      "price": 149.99,
+      "image": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcThu3Ezytn3KMGZT7LGQO731J8OeMJ36XLed_r937g39Wg9FjOly7yvGs-_hnkcACIyx1LoWvL2T-RbFDqS6HqxQ2Kr4LdIDcDT-jiv5-kUcnMMjlrlaxv--b9liv8_mztIlQR95tZk&usqp=CAc"
+    }
+  ]
+  

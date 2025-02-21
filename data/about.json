@@ -1,0 +1,39 @@
+{
+    "companyInfo": {
+      "name": "Tech Gadgets Store",
+      "description": "We are a leading retailer of the latest tech gadgets and accessories. Our mission is to provide cutting-edge technology at affordable prices.",
+      "established": 2010,
+      "location": "New York, USA",
+      "contact": {
+        "email": "info@techgadgetsstore.com",
+        "phone": "+1 234 567 890"
+      }
+    },
+    "employees": [
+      {
+        "id": 1122,
+        "name": "John Doe",
+        "position": "Software Engineer",
+        "department": "Engineering",
+        "hireDate": "2015-06-22",
+        "bio": "John is a passionate software engineer who loves building scalable applications. He has been with the company for over 5 years."
+      },
+      {
+        "id": 1123,
+        "name": "Jane Smith",
+        "position": "Product Manager",
+        "department": "Product",
+        "hireDate": "2017-08-15",
+        "bio": "Jane has a strong background in product development and managing teams to deliver outstanding products. She joined in 2017."
+      },
+      {
+        "id": 1124,
+        "name": "Samuel Green",
+        "position": "Marketing Specialist",
+        "department": "Marketing",
+        "hireDate": "2018-04-10",
+        "bio": "Samuel specializes in digital marketing strategies. He joined the company in 2018 and has helped boost brand awareness."
+      }
+    ]
+  }
+  
