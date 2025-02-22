@@ -29,7 +29,7 @@ export default function EmployeeDetails({ employee }: EmployeeProp) {
 
 }
 
-export function getServerSideProps({ params }: any) {
+export function getServerSideProps({ params }: { params: { empId: string | string[] } }) {
     const { empId } = params
     const id = Array.isArray(empId) ? Number(empId[0]) : Number(empId)
     const employee = data.employees.find(emp => emp.id === id) || null
