@@ -2,7 +2,7 @@ import { useRouter } from "next/router"
 const Header = ()=>{
     const router = useRouter()
     return(
-        <div className="border border-red-200 bg-white text-black p-4 px-28 text-[40px] font-serif flex justify-between items-center">
+        <div className=" border-red-200 bg-white text-black p-4 px-28 text-[40px] font-serif flex justify-between items-center">
             
             <div className="cursor-pointer" onClick={()=>{router.push("/")}}>Rishabh</div>
 
