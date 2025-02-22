@@ -23,7 +23,7 @@ const Custom404 = () => {
       clearTimeout(timer);
       clearInterval(intervalTimer);
     }
-  },[])
+  },[router])
 
   return (
     <div className=" min-h-[19em] flex justify-center items-center text-[30px] ">
